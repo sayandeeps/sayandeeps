@@ -1,1 +1,1 @@
-![My stats](https://i.ibb.co/9Wr2jjX/github-wrapped.png)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sayandeeps)](https://git.io/streak-stats)
