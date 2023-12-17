@@ -1,4 +1,4 @@
-### Hi there 👋
+[]([https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg](https://i.ibb.co/9Wr2jjX/github-wrapped.png))
 
 <!--
 **sayandeeps/sayandeeps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
