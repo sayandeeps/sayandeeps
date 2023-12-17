@@ -1,1 +1,1 @@
-![My stats]([image URL](https://i.ibb.co/9Wr2jjX/github-wrapped.png)
+![My stats](https://i.ibb.co/9Wr2jjX/github-wrapped.png)
