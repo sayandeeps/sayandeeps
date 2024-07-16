@@ -32,9 +32,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayandeeps&show_icons=true&locale=en&layout=compact" alt="sayandeeps" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayandeeps&show_icons=true&locale=en" alt="sayandeeps" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayandeeps&" alt="sayandeeps" /></p>
-
-
- [![Sayandeep's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=sayandeepsharma10
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sayandeeps)](https://git.io/streak-stats) [![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=sayandeepsharma10
 )](https://www.geeksforgeeks.org/user/sayandeepsharma10/)
