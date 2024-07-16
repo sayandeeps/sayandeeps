@@ -32,6 +32,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayandeeps&show_icons=true&locale=en&layout=compact" alt="sayandeeps" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayandeeps&show_icons=true&locale=en" alt="sayandeeps" /></p>
-s
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sayandeeps)](https://git.io/streak-stats) [![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=sayandeepsharma10
 )](https://www.geeksforgeeks.org/user/sayandeepsharma10/)
