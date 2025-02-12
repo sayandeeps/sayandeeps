@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayandeeps" alt="sayandeeps" /></a> </p>
 
 - 💼 I’m currently a SWE intern at **Telaverge Communications**
-- 
+  
 - 🌱 I’m currently studying **Information Technology in Narula Institute Of Technology,Agarpara,Kolkata.**
 
 - 🌱 I’m currently learning **Data Structures & Algorithms, Web-Devv**
