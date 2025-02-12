@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sayandeep Sharma</h1>
 <h3 align="center">A passionate programmer. I am fond of coding and trying to build something which solve real life problems</h3>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayandeeps&label=Profile%20views&color=0e75b6&style=flat" alt="sayandeeps" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayandeeps&label=Profile%20views&color=0e75b6&style=flat" alt="sayandeeps" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayandeeps" alt="sayandeeps" /></a> </p>
 
+- 💼 I’m currently a SWE intern at **Telaverge Communications**
+- 
 - 🌱 I’m currently studying **Information Technology in Narula Institute Of Technology,Agarpara,Kolkata.**
 
 - 🌱 I’m currently learning **Data Structures & Algorithms, Web-Devv**
